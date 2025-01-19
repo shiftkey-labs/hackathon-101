@@ -36,6 +36,7 @@ Hackathons are events where individuals and teams come together to create innova
 - [Hackathons are for beginners](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000)
 - [Ultimate 8 Step Guide to Winning Hackathons](https://medium.com/garyyauchan/ultimate-8-step-guide-to-winning-hackathons-84c9dacbe8e)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Hackathon Pitching 101 by Hack the North](https://www.youtube.com/watch?v=sLszANlBlRA)
 
 ### Development Tools
 
